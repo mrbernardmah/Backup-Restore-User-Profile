@@ -1,0 +1,1 @@
+cmd.exe /c md C:\WindowsEasyTransfer & cmd.exe /c xcopy ".\WindowsEasyTransfer" C:\WindowsEasyTransfer  /y /e
