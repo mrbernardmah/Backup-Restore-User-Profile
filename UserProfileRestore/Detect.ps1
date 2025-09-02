@@ -1,0 +1,1 @@
+if (test-path "C:\ProgramData\MrB\Restore\Backup.ps1.tag"){"Installed"} 
